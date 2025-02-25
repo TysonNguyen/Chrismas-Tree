@@ -23,4 +23,6 @@ can choose which one to display.
 ## Future Improvements
 For multiplexing, this way is currently safe but still not a great way to do so. A usage of MUX-24 would improve this project further.
 On top of that, a more friendly UI would be a great enhancement for the future
-
+## Contact me
+* Email: tysonn2231@gmail.com
+* LinkedIn: https://www.linkedin.com/in/truong-nguyen-29b45b352/
